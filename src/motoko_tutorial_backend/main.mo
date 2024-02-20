@@ -1,3 +1,4 @@
+// motoko
 import Map "mo:base/HashMap";
 import Hash "mo:base/Hash";
 import Nat "mo:base/Nat";
